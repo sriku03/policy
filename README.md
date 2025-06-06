@@ -7,7 +7,7 @@
 ＃hobby
   ①アーキテクチャ
     nand to tetris アーキテクチャを作成（hdlで）
-    Risk-V アーキテクチャを作成（hdlで）
+    Risc-V アーキテクチャを作成（hdlで）
     x-86アーキテクチャを作成（hdlで）
     armアーキテクチャを作成(hdlで）
     
